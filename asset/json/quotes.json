@@ -1,0 +1,289 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "image_url": "https://example.com/albert_einstein.jpg"
+    },
+    {
+      "id": 2,
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "image_url": "https://example.com/mahatma_gandhi.jpg"
+    },
+    {
+      "id": 3,
+      "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "image_url": "https://example.com/martin_luther_king.jpg"
+    },
+    {
+      "id": 4,
+      "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "image_url": "https://example.com/maya_angelou.jpg"
+    },
+    {
+      "id": 5,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs", "image_url": "https://example.com/steve_jobs.jpg"
+    },
+    {
+      "id": 6,
+      "quote": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "image_url": "https://example.com/albert_einstein.jpg"
+    },
+    {
+      "id": 7,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "image_url": "https://example.com/eleanor_roosevelt.jpg"
+    },
+    {
+      "id": 8,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "image_url": "https://example.com/winston_churchill.jpg"
+    },
+    {
+      "id": 9,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "image_url": "https://example.com/john_lennon.jpg"
+    },
+    {
+      "id": 10,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+    },
+    {
+      "id": 11,
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "image_url": "https://example.com/henry_david_thoreau.jpg"
+    },
+    {
+      "id": 12,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "image_url": "https://example.com/franklin_roosevelt.jpg"
+    },
+    {
+      "id": 13,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "image_url": "https://example.com/peter_drucker.jpg"
+    },
+    {
+      "id": 14,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "image_url": "https://example.com/nelson_mandela.jpg"
+    },
+    {
+      "id": 15,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "image_url": "https://example.com/confucius.jpg"
+    },
+    {
+      "id": 16,
+      "quote": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort",
+      "image_url": "https://example.com/jordan_belfort.jpg"
+    },
+    {
+      "id": 17,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "image_url": "https://example.com/peter_drucker.jpg"
+    },
+    {
+      "id": 18,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "image_url": "https://example.com/nelson_mandela.jpg"
+    },
+    {
+      "id": 19,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "image_url": "https://example.com/confucius.jpg"
+    },
+    {
+      "id": 20,
+      "quote": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort",
+      "image_url": "https://example.com/jordan_belfort.jpg"
+    },
+    {
+      "id": 21,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "image_url": "https://example.com/franklin_roosevelt.jpg"
+    },
+    {
+      "id": 22,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "image_url": "https://example.com/john_lennon.jpg"
+    },
+    {
+      "id": 23,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+    },
+    {
+      "id": 24,
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "image_url": "https://example.com/henry_david_thoreau.jpg"
+    },
+    {
+      "id": 25,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "image_url": "https://example.com/peter_drucker.jpg"
+    },
+    {
+      "id": 26,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "image_url": "https://example.com/nelson_mandela.jpg"
+    },
+    {
+      "id": 27,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "image_url": "https://example.com/confucius.jpg"
+    },
+    {
+      "id": 28,
+      "quote": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort",
+      "image_url": "https://example.com/jordan_belfort.jpg"
+    }, {
+      "id": 29,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer",
+      "image_url": "https://example.com/albert_schweitzer.jpg"
+    },
+    {
+      "id": 30,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "image_url": "https://example.com/steve_jobs.jpg"
+    },
+    {
+      "id": 31,
+      "quote": "The biggest risk is not taking any risk. In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "image_url": "https://example.com/mark_zuckerberg.jpg"
+    },
+    {
+      "id": 32,
+      "quote": "The only thing that is constant is change.",
+      "author": "Heraclitus",
+      "image_url": "https://example.com/heraclitus.jpg"
+    },
+    {
+      "id": 33,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "image_url": "https://example.com/franklin_roosevelt.jpg"
+    },
+    {
+      "id": 34,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "image_url": "https://example.com/john_lennon.jpg"
+    },
+    {
+      "id": 35,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+    },
+    {
+      "id": 36,
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "image_url": "https://example.com/henry_david_thoreau.jpg"
+    },
+    {
+      "id": 37,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "image_url": "https://example.com/peter_drucker.jpg"
+    },
+    {
+      "id": 38,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "image_url": "https://example.com/nelson_mandela.jpg"
+    },
+    {
+      "id": 39,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "image_url": "https://example.com/confucius.jpg"
+    },
+    {
+      "id": 40,
+      "quote": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort",
+      "image_url": "https://example.com/jordan_belfort.jpg"
+    },
+    {
+      "id": 41,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer",
+      "image_url": "https://example.com/albert_schweitzer.jpg"
+    },
+    {
+      "id": 42,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "image_url": "https://example.com/steve_jobs.jpg"
+    },
+    {
+      "id": 43,
+      "quote": "The biggest risk is not taking any risk. In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "image_url": "https://example.com/mark_zuckerberg.jpg"
+    },
+    {
+      "id": 44,
+      "quote": "The only thing that is constant is change.",
+      "author": "Heraclitus",
+      "image_url": "https://example.com/heraclitus.jpg"
+    },   {
+      "id": 45,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "image_url": "https://example.com/franklin_roosevelt.jpg"
+    },
+    {
+      "id": 46,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "image_url": "https://example.com/john_lennon.jpg"
+    },
+    {
+      "id": 47,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "image_url": "https://example.com/ralph_waldo_emerson.jpg"
+    },
+    {
+      "id": 48,
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "image_url": "https://example.com/henry_david_thoreau.jpg"
+    }
+  ]
+}

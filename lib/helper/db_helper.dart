@@ -41,5 +41,13 @@ class DBhelper {
     ];
     return await database.rawInsert(query, args);
   }
+
+  Future<List<QuotesModel>?> fetchQuotes() async {
+    List res = await database.rawQuery("SELECT * FROM $tableQt");
+    List<QuotesModel> allQuotes =
+        res.map((e) => QuotesModel.fromMap(data: e)).toList();
+    return allQuotes;
+  }
+
   //'CREATE TABLE IF NOT EXISTS $tableTr($trId INTEGER PRIMARY KEY AUTOINCREMENT,$trRemarks TEXT,$trAmt INTEGER,$trType TEXT CHECK($trType IN("INCOME","EXPANSE")),$trCat TEXT,$trDate TEXT)'
 }
